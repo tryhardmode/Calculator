@@ -45,7 +45,7 @@ int main()
     numberdata();
     symbolsdata();
 
-    cout << "\t" << "\t" << "\t" << "\t" << "\t" << "\t" << " КАЛЬКУЛЯТОР" << "\t" << endl;
+    cout << "\t" << "\t" << "\t" << "\t" << "\t" << "\t" << " КАЛЬКУЛЯТОР V1" << "\t" << endl;
 
     return 0;
 }
